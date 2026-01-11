@@ -91,28 +91,17 @@ My learning style is project-driven, with continuous improvement through real us
 
 ### 🤖 Systems, Robotics & Low-Level
 <p>
-  <a href="https://en.cppreference.com/w/c"
-     target="_blank"
-     style="text-decoration:none;">
+  <a href="https://en.cppreference.com/w/c" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
-
-  <a href="https://en.cppreference.com/w/"
-     target="_blank"
-     style="text-decoration:none;">
+  <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-
-  <a href="https://docs.python.org/3/"
-     target="_blank"
-     style="text-decoration:none;">
+  <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-
-  <a href="https://docs.ros.org/en/humble/index.html"
-     target="_blank"
-     style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=ros" />
+  <a href="https://docs.ros.org/en/humble/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/distributions/ros2humble/icon/ros2humble.png" height="42"/>
   </a>
 </p>
 
