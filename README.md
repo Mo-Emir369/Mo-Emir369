@@ -112,16 +112,31 @@ My learning style is project-driven, with continuous improvement through real us
 
 ### 🛠️ Tools & Environment
 <p>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
+  <a href="https://en.cppreference.com/w/c"
+     target="_blank"
+     style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+
+  <a href="https://en.cppreference.com/w/"
+     target="_blank"
+     style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
+
+  <a href="https://docs.python.org/3/"
+     target="_blank"
+     style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <a href="https://docs.ros.org/en/humble/index.html"
+     target="_blank"
+     style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=ros" />
   </a>
 </p>
+
 
 ---
 
