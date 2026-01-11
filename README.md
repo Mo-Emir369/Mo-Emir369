@@ -34,44 +34,6 @@ My learning style is project-driven, with continuous improvement through real us
 
 ---
 
-### ⚙️ Backend & Databases
-<p>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" />
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
----
-
-### 🌐 Web Development
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
-  <a href="https://laravel.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</p>
-
----
 
 ### 📱 Mobile Development
 <p>
@@ -113,6 +75,46 @@ My learning style is project-driven, with continuous improvement through real us
 </p>
 
 ---
+
+### ⚙️ Backend & Databases
+<p>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+---
+
+### 🌐 Web Development
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.php.net/docs.php" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://laravel.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+</p>
+
+---
+
 
 ### 🛠️ Tools & Environment
 <p>
