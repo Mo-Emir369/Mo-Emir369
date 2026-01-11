@@ -100,9 +100,12 @@ My learning style is project-driven, with continuous improvement through real us
   <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://docs.ros.org/en/humble/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/distributions/ros2humble/icon/ros2 humble.png"height="42"/>
-  </a>
+  <a href="https://docs.ros.org/en/humble/index.html"
+   target="_blank"
+   style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=ros" />
+</a>
+
 </p>
 
 ---
