@@ -1,28 +1,27 @@
-<h1>
+  <h1>
 Mo Emir
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mo-Emir369&style=flat-square">
 </h1>
 
-## About Me
+## Software Developer | Web • Backend • Mobile • Systems
 
-<p align="justify">
-I am a multi-disciplinary software developer with experience across web, backend, mobile, and systems programming.
-I enjoy working with different technologies and building practical, real-world applications.
-</p>
+I am a multi-disciplinary software developer with hands-on experience building real-world applications across web, backend, mobile, and systems programming.
 
-<p align="justify">
-My background includes web development, backend APIs, mobile applications, and low-level programming.
-I focus on writing clean, understandable code and continuously improving my technical skills.
-</p>
-
-<p align="justify">
-I value learning by building projects and solving problems.
-I am always open to feedback and enjoy refining my work based on real usage and experience.
-</p>
+I focus on writing clean, maintainable code and designing practical solutions that solve real problems.  
+My approach is strongly project-driven, with continuous improvement through feedback and real usage.
 
 ---
 
-## My Skills
+## Core Strengths
+- Designing and developing full-stack applications
+- Building backend APIs and data-driven systems
+- Developing mobile applications (Android & cross-platform)
+- Working close to the system level when needed (C/C++, robotics)
+- Strong problem-solving mindset and adaptability to new technologies
+
+---
+
+## Technical Skills
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Emir369&layout=compact&theme=github_dark"
@@ -51,10 +50,18 @@ I am always open to feedback and enjoy refining my work based on real usage and 
   <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/distributions/ros2humble/icon/ros2humble.png" height="42"/>
 </p>
 
-### Tools & Environments
+### Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
+
+---
+
+## What I’m Currently Focused On
+- Building scalable backend services and APIs
+- Improving system design and architecture skills
+- Expanding experience in mobile and cross-platform development
+- Working on robotics and low-level integrations when applicable
 
 ---
 
@@ -64,6 +71,9 @@ I am always open to feedback and enjoy refining my work based on real usage and 
 
 ---
 
-## Show your support
+## Get in Touch
 
-If you like my work, feel free to follow me on GitHub.
+I am open to internships, junior roles, and collaboration opportunities.  
+Feel free to explore my repositories or reach out for discussion.
+
+⭐ If you find my work interesting, consider following my GitHub.
