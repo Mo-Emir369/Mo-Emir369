@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋, I'm Mo Emir  
 
-<!--
-**Mo-Emir369/Mo-Emir369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🚀 Passionate about Building Clean & Scalable Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔭 Currently working on web development projects  
+- 🌱 Learning modern JavaScript frameworks and backend technologies  
+- 👯 Open to collaborating on open-source projects  
+- 💬 Ask me about: Web Development, Git & GitHub  
+
+---
+
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+
+---
+
+### 📊 GitHub Stats
+![Mo Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo-Emir369&show_icons=true&theme=default)
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: your@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourusername  
+
+---
+
+⭐️ *Always learning, always building.*
