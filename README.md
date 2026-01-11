@@ -1,72 +1,50 @@
-<h1>Mo Emir <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mo-Emir369&style=flat-square"></h1>
+<h1 align="left">
+  Mo Emir
+  <img align="right" src="https://komarev.com/ghpvc/?username=Mo-Emir369&style=flat-square" />
+</h1>
 
-## About Me
+## 🚀 Tech Stack
 
-<p align="justify">
-I am a software developer with a strong focus on JavaScript and backend development.
-I enjoy building practical tools, learning how systems work internally, and improving existing solutions.
-</p>
-
-<p align="justify">
-I started my journey with web technologies by learning HTML and CSS, then moved into JavaScript to build dynamic applications.
-Over time, my interest shifted toward backend development, APIs, and automation.
-</p>
-
-<p align="justify">
-My main goal with programming is to build useful and reliable software.
-I value clean code, simplicity, and maintainability.
-I’m always open to feedback and enjoy improving my work based on real-world usage.
-</p>
-
-<p align="justify">
-Currently, I focus on JavaScript-based environments, Git, and backend tooling, while continuously expanding my skill set.
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
 </p>
 
 ---
 
-## Skills & Technologies
-
-<img align="right"
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Emir369&layout=compact&theme=github_dark"
-     width="300"/>
-
-### Languages & Tools I Use
-
-- JavaScript (ES6+)
-- Node.js
-- HTML & CSS
-- Git & GitHub
-- JSON & REST APIs
-
-### Currently Learning
-
-- Advanced Node.js concepts
-- Backend architecture & best practices
-- Linux & scripting
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
+</p>
 
 ---
 
-## GitHub Stats
-
-![Mo Emir GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mo-Emir369&show_icons=true&theme=github_dark)
-
----
-
-## Projects
-
-- **Project One** – Short description of what it does  
-- **Project Two** – What problem it solves  
-- **Project Three** – What you learned from it  
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart" />
+</p>
 
 ---
 
-## Contact
+### 🤖 Systems, Robotics & Low-Level
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
 
-- GitHub: https://github.com/Mo-Emir369
-- LinkedIn: https://linkedin.com/in/yourusername
+<p>
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/distributions/ros2humble/icon/ros2humble.png" height="48" />
+</p>
 
 ---
 
-<sub>
-This profile focuses on clarity, experience, and continuous learning.
-</sub>
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Emir369&show_icons=true&theme=default" />
+</p>
