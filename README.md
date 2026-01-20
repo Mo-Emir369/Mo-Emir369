@@ -1,9 +1,9 @@
 <h1>
-Mo Emir
+Mohammed Emir
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mo-Emir369&style=flat-square">
 </h1>
 
-## Software Developer | Web • Backend • Mobile • Systems
+## Software Developer | Mobile • Backend • Web • Systems | Robotics Enthusiast
 
 I am a multi-disciplinary software developer with hands-on experience building real-world applications across web, backend, mobile, and systems programming.
 
@@ -24,6 +24,12 @@ My learning style is project-driven, with continuous improvement through real us
 ---
 
 ## Technical Skills
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,js,php" />
+</p>
+
 
 <p align="center">
   <img
