@@ -27,7 +27,7 @@ My learning style is project-driven, with continuous improvement through real us
 
 ### 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,js,php,sql" />
 </p>
 
 
