@@ -1,5 +1,5 @@
 <h1>
-Mohammed Emir
+Mohammed Amir
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mo-Emir369&style=flat-square">
 </h1>
 
