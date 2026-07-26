@@ -1,6 +1,6 @@
 <h1>
 Mohammed Amir Hallak
-<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mo-Emir369&style=flat-square">
+<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=moamir369&style=flat-square">
 </h1>
 
 ## Software Developer | Mobile • Backend • Web • Systems | Robotics Enthusiast
@@ -147,7 +147,7 @@ My learning style is project-driven, with continuous improvement through real us
 
 ## GitHub Stats
 
-![Mo Emir GitHub Stats](https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=github_dark)
+![moamir369 GitHub Stats](https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=github_dark)
 
 ---
 
