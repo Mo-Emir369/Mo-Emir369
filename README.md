@@ -3,179 +3,250 @@
 </h1>
 
 <h3 align="center">
-  Computer Engineering Student • Software Developer • Robotics Enthusiast
+  Computer Engineering Student | Robotics & Autonomous Systems Developer
 </h3>
-
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Computer Engineering student** and a multidisciplinary software developer interested in building practical systems that combine software, hardware, and intelligent automation.
-
-My work spans across:
-
-- 🤖 Robotics and autonomous systems
-- 🧠 Computer vision and AI
-- 🛠️ Embedded systems and low-level programming
-- 🌐 Backend and web development
-- 📱 Mobile application development
-
-I enjoy learning by building real projects and solving practical problems through software and hardware integration.
-
-> 🚀 Build. Learn. Improve. Repeat.
-
----
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Robotics & Autonomous Systems
-
-- ROS 2 & Gazebo
-- Nav2 Navigation
-- SLAM & LiDAR
-- Computer Vision
-- Autonomous Robot Behavior
-- Embedded Systems
-- Sensor Integration
-
-</td>
-<td width="50%">
-
-### 💻 Software Development
-
-- Backend APIs
-- Web Applications
-- Mobile Applications
-- Database Systems
-- Systems Programming
-- Software Architecture
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,js,php,sql" />
-</p>
-
-### 🤖 Robotics, AI & Embedded Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ros,python,cpp,c,linux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ROS_2-Humble-22314E?style=for-the-badge&logo=ros" />
-  <img src="https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nav2-Autonomous%20Navigation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv" />
-  <img src="https://img.shields.io/badge/SLAM-Robotics-green?style=for-the-badge" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart" />
-</p>
-
-### 🌐 Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,spring,mysql" />
-</p>
-
-### 🛠️ Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
----
-
-## ⭐ Featured Projects
-
-### 🤖 ROS 2 Autonomous Ball Rover
-
-Autonomous mobile robot simulation built with **ROS 2 Humble, Gazebo, Nav2, SLAM, LiDAR, and OpenCV**.
-
-The robot autonomously patrols predefined waypoints, detects a yellow ball, follows it, and resumes patrolling when the ball is lost.
-
-🔗 [View Project](https://github.com/moamir369/ros2-autonomous-ball-rover)
-
----
-
-### 🚗 Autonomous Systems & Robotics
-
-Working on autonomous robotics systems involving:
-
-- Sensor integration
-- Computer vision
-- Autonomous navigation
-- Embedded systems
-- Telemetry
-- AI-based decision making
-
----
-
-## 🎯 Currently Focused On
-
-- 🤖 ROS 2 and autonomous robotics
-- 🧠 Computer vision and AI
-- 🛠️ Embedded systems
-- 🏗️ Software architecture
-- 🌐 Backend development
-- 🚗 Autonomous vehicle systems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamir369&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moamir369&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to:
-
-- Internships
-- Junior software engineering roles
-- Robotics projects
-- Open-source collaboration
-- Interesting technical projects
-
-Feel free to explore my repositories and connect with me.
 
 <p align="center">
   <a href="https://github.com/moamir369">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=moamir369&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
 ---
 
+## 🚀 About Me
+
+I am a **Computer Engineering student at Necmettin Erbakan University** with a strong interest in building practical software and autonomous robotic systems.
+
+My work combines software development, robotics, artificial intelligence, computer vision, and embedded systems.
+
+I enjoy transforming ideas into real working systems — from mobile and web applications to autonomous robots capable of perception, navigation, and decision-making.
+
+> 🤖 Building intelligent systems that can perceive, decide, and act.
+
+---
+
+## 🧠 What I Do
+
+- 🤖 Robotics and Autonomous Systems
+- 🧭 ROS 2 and Navigation
+- 🗺️ SLAM and Autonomous Navigation
+- 👁️ Computer Vision and Object Detection
+- 🧠 Artificial Intelligence and Optimization
+- ⚙️ Embedded Systems and Microcontrollers
+- 📱 Mobile Application Development
+- 🌐 Backend and Web Development
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🤖 Robotics & AI
+
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://skillicons.dev/icons?i=ros,python,cpp,c,opencv,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS%202-Humble-blue?style=for-the-badge&logo=ros" />
+  <img src="https://img.shields.io/badge/Nav2-Autonomous%20Navigation-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SLAM-Toolbox-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gazebo-Simulation-lightgrey?style=for-the-badge" />
+</p>
+
+---
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,js,php,sql" />
+</p>
+
+---
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java" />
+</p>
+
+---
+
+### 🌐 Web & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,spring,mysql,firebase" />
+</p>
+
+---
+
+### 🔧 Embedded Systems & Hardware
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-Microcontrollers-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jetson-Orin%20Nano-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🤖 Featured Robotics Project
+
+<details open>
+<summary><b>🚗 ROS 2 Autonomous Ball Rover</b></summary>
+
+<br>
+
+An autonomous mobile robot simulation built with **ROS 2 Humble, Gazebo, Nav2, SLAM, LiDAR, and OpenCV**.
+
+The robot autonomously patrols predefined waypoints. When it detects a yellow ball, it stops patrolling and follows the ball. When the ball is lost, it automatically returns to autonomous patrolling.
+
+### Main Features
+
+- ROS 2 Humble
+- Gazebo Simulation
+- LiDAR Perception
+- SLAM Toolbox
+- Nav2 Autonomous Navigation
+- OpenCV Yellow Ball Detection
+- Autonomous Ball Following
+- State Machine Behavior Control
+
+🔗 **Repository:**  
+[ROS 2 Autonomous Ball Rover](https://github.com/moamir369/ros2-autonomous-ball-rover)
+
+</details>
+
+---
+
+## 🏆 Robotics & Competition Experience
+
+### 🚘 Electric Car / Autonomous Systems
+
+Working on autonomous robotic systems involving:
+
+- Autonomous navigation
+- Computer vision
+- LiDAR perception
+- Sensor integration
+- Embedded systems
+- Telemetry systems
+- Optimization algorithms
+
+---
+
+### 🚚 AI-Powered Logistics Optimization
+
+Working on optimization and AI-based solutions for logistics and autonomous systems.
+
+Technologies and concepts include:
+
+- Machine Learning
+- Optimization Algorithms
+- Route Planning
+- Mathematical Optimization
+- Data Processing
+
+---
+
+## 📂 Featured Projects
+
+<details open>
+<summary>🤖 Robotics & Autonomous Systems</summary>
+
+<br>
+
+- [ROS 2 Autonomous Ball Rover](https://github.com/moamir369/ros2-autonomous-ball-rover)
+  - ROS 2 Humble
+  - Gazebo
+  - Nav2
+  - SLAM
+  - LiDAR
+  - OpenCV
+
+</details>
+
+<details>
+<summary>📱 Mobile Applications</summary>
+
+<br>
+
+- Flutter Applications
+- Firebase-based Applications
+- Android Applications
+- Cross-platform Mobile Development
+
+</details>
+
+<details>
+<summary>🌐 Web & Backend Systems</summary>
+
+<br>
+
+- Laravel Applications
+- Spring Boot APIs
+- Database-driven Systems
+- REST APIs
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamir369&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moamir369&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Currently Learning & Working On
+
+- 🤖 ROS 2 and Autonomous Robotics
+- 🧭 Navigation and SLAM
+- 👁️ Computer Vision
+- 🧠 Artificial Intelligence
+- ⚙️ Embedded Systems
+- 📡 Telemetry Systems
+- 🚗 Autonomous Vehicles
+- 🧮 Optimization Algorithms
+- 🏗️ Software Architecture
+
+---
+
+## 🌍 Languages
+
+- 🇸🇾 Arabic — Native
+- 🇹🇷 Turkish — Advanced
+- 🇬🇧 English — Intermediate
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Building software. 🤖 Building robots. 🚀 Building the future.</b>
 </p>
