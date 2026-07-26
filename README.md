@@ -1,159 +1,193 @@
-<h1>
-Mohammed Amir Hallak
-<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=moamir369&style=flat-square">
+<h1 align="center">
+  Hi 👋, I'm Muhammet Emir Hallek
 </h1>
 
-## Software Developer | Mobile • Backend • Web • Systems | Robotics Enthusiast
+<h3 align="center">
+  Computer Engineering Student • Software Developer • Robotics Enthusiast
+</h3>
 
-I am a multi-disciplinary software developer with hands-on experience building real-world applications across web, backend, mobile, and systems programming.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moamir369&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
-I focus on clean, maintainable code and practical solutions.  
-My learning style is project-driven, with continuous improvement through real usage and feedback.
-
-> 🚀 Focused on building practical, real-world software solutions
+<p align="center">
+  <a href="https://github.com/moamir369">
+    <img src="https://img.shields.io/github/followers/moamir369?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/moamir369?tab=repositories">
+    <img src="https://img.shields.io/github/stars/moamir369?label=Stars&style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-## Core Strengths
-- Full-stack application development
-- Backend APIs and data-driven systems
-- Android & cross-platform mobile applications
-- Systems & low-level programming
-- Strong problem-solving mindset
+## 👨‍💻 About Me
+
+I'm a **Computer Engineering student** and a multidisciplinary software developer interested in building practical systems that combine software, hardware, and intelligent automation.
+
+My work spans across:
+
+- 🤖 Robotics and autonomous systems
+- 🧠 Computer vision and AI
+- 🛠️ Embedded systems and low-level programming
+- 🌐 Backend and web development
+- 📱 Mobile application development
+
+I enjoy learning by building real projects and solving practical problems through software and hardware integration.
+
+> 🚀 Build. Learn. Improve. Repeat.
 
 ---
 
-## Technical Skills
+## 🚀 What I Do
 
-### 🧠 Programming Languages
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Robotics & Autonomous Systems
+
+- ROS 2 & Gazebo
+- Nav2 Navigation
+- SLAM & LiDAR
+- Computer Vision
+- Autonomous Robot Behavior
+- Embedded Systems
+- Sensor Integration
+
+</td>
+<td width="50%">
+
+### 💻 Software Development
+
+- Backend APIs
+- Web Applications
+- Mobile Applications
+- Database Systems
+- Systems Programming
+- Software Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,js,php,sql" />
 </p>
 
+### 🤖 Robotics, AI & Embedded Systems
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Emir369&layout=compact&theme=github_dark"
-    width="300"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=ros,python,cpp,c,linux" />
 </p>
 
----
-
+<p>
+  <img src="https://img.shields.io/badge/ROS_2-Humble-22314E?style=for-the-badge&logo=ros" />
+  <img src="https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nav2-Autonomous%20Navigation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/SLAM-Robotics-green?style=for-the-badge" />
+</p>
 
 ### 📱 Mobile Development
+
 <p>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" />
-  </a>
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kotlin" />
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-</p>
-<p>
-  <a href="https://docs.flutter.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter" />
-  </a>
-  <a href="https://dart.dev/guides" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dart" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart" />
 </p>
 
----
+### 🌐 Web & Backend
 
-### 🤖 Systems, Robotics & Low-Level
 <p>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://docs.ros.org/en/humble/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ros" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,spring,mysql" />
 </p>
-
----
-
-### ⚙️ Backend & Databases
-<p>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" />
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
----
-
-### 🌐 Web Development
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.php.net/docs.php" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
-  <a href="https://laravel.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</p>
-
----
-
 
 ### 🛠️ Tools & Environment
+
 <p>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 ROS 2 Autonomous Ball Rover
+
+Autonomous mobile robot simulation built with **ROS 2 Humble, Gazebo, Nav2, SLAM, LiDAR, and OpenCV**.
+
+The robot autonomously patrols predefined waypoints, detects a yellow ball, follows it, and resumes patrolling when the ball is lost.
+
+🔗 [View Project](https://github.com/moamir369/ros2-autonomous-ball-rover)
+
+---
+
+### 🚗 Autonomous Systems & Robotics
+
+Working on autonomous robotics systems involving:
+
+- Sensor integration
+- Computer vision
+- Autonomous navigation
+- Embedded systems
+- Telemetry
+- AI-based decision making
+
+---
+
+## 🎯 Currently Focused On
+
+- 🤖 ROS 2 and autonomous robotics
+- 🧠 Computer vision and AI
+- 🛠️ Embedded systems
+- 🏗️ Software architecture
+- 🌐 Backend development
+- 🚗 Autonomous vehicle systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamir369&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moamir369&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+
+- Internships
+- Junior software engineering roles
+- Robotics projects
+- Open-source collaboration
+- Interesting technical projects
+
+Feel free to explore my repositories and connect with me.
+
+<p align="center">
+  <a href="https://github.com/moamir369">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## What I’m Currently Focused On
-- Backend APIs and scalable systems
-- Improving system design & architecture
-- Mobile and cross-platform development
-- Robotics and low-level integrations
-
----
-
-## GitHub Stats
-
-![moamir369 GitHub Stats](https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=github_dark)
-
----
-
-## Get in Touch
-
-I am open to internships, junior roles, and collaboration opportunities.  
-Feel free to explore my repositories or reach out.
-
-⭐ If you like my work, consider following my GitHub.
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
