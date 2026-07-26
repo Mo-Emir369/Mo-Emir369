@@ -194,7 +194,7 @@ Technologies and concepts include:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moamir369&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
