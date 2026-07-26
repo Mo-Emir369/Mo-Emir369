@@ -6,11 +6,6 @@
   Computer Engineering Student | Robotics & Autonomous Systems Developer
 </h3>
 
-<p align="center">
-  <a href="https://github.com/moamir369">
-    <img src="https://komarev.com/ghpvc/?username=moamir369&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
 
 ---
 
@@ -239,9 +234,6 @@ Technologies and concepts include:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
