@@ -6,18 +6,6 @@
   Computer Engineering Student • Software Developer • Robotics Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moamir369&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/moamir369">
-    <img src="https://img.shields.io/github/followers/moamir369?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/moamir369?tab=repositories">
-    <img src="https://img.shields.io/github/stars/moamir369?label=Stars&style=for-the-badge&logo=github">
-  </a>
-</p>
 
 ---
 
