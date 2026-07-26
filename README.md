@@ -1,5 +1,5 @@
 <h1>
-Mohammed Amir
+Mohammed Amir Hallak
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mo-Emir369&style=flat-square">
 </h1>
 
@@ -147,7 +147,7 @@ My learning style is project-driven, with continuous improvement through real us
 
 ## GitHub Stats
 
-![Mo Emir GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mo-Emir369&show_icons=true&theme=github_dark)
+![Mo Emir GitHub Stats](https://github-readme-stats.vercel.app/api?username=moamir369&show_icons=true&theme=github_dark)
 
 ---
 
